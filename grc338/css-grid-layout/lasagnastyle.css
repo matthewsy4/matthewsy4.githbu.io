@@ -11,7 +11,7 @@ div.container {
     margin: auto;
     
     display: grid;
-    grid-template-rows: 5em auto auto 3em;
+    grid-template-rows: auto;
 }
 
 main {
