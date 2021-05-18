@@ -1,0 +1,65 @@
+/*CSS DOCUMENT*/
+
+img {
+    width: 100%; 
+}
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
+
+body {
+    max-width: 60em;
+    margin: auto;
+    padding: 1.5em;
+    font-family: sans-serif;
+}
+
+h2{
+    font-size: 2em;
+    color: #a62b2b;
+}
+
+footer {
+    font-size: 0.75em;
+}
+
+/*navigation*/
+nav {
+    padding: 0 0 1em 0;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 1em;
+    font-size: 1.25em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+nav ul li a {
+    color: #121212;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #a62b2b;
+}
+
+/*menu*/
+
+div.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+div.menu h3 {
+    text-transform: uppercase;
+}
+
+div.menu p {
+    color: #6f6f6f;
+}
