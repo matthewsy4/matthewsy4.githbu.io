@@ -86,5 +86,10 @@ div.menu li {
 
         column-gap: 1em;
     }
+
+    nav ul {
+        padding-top: 2em;
+        text-align: right;
+    }
     
 }
